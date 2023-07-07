@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Airpods",
+    "price": 99,
+    "imgUrl": "../../public/images/products-image/airpods.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Apple Watch",
+    "price": 199,
+    "imgUrl": "../../public/images/products-image/apple-watch.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Iphone 12",
+    "price": 299,
+    "imgUrl": "../../public/images/products-image/iphone-12.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Iphone Se",
+    "price": 79,
+    "imgUrl": "../../public/images/products-image/iphone-se.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Macbook",
+    "price": 399,
+    "imgUrl": "../../public/images/products-image/macbook.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mouse",
+    "price": 29,
+    "imgUrl": "../../public/images/products-image/mouse.jpg"
+  }
+]
